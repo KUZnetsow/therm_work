@@ -1,0 +1,5 @@
+﻿  Tests.cpp
+C:\Users\kirmo\source\repos\thermWork\thermWork\PrefixCalc.cpp(5,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\kirmo\source\repos\thermWork\thermWork\PrefixCalc.cpp(122,25): warning C4101: e: неиспользованная локальная переменная
+C:\Users\kirmo\source\repos\thermWork\thermWork\PrefixCalc.cpp(250,38): warning C4101: error: неиспользованная локальная переменная
+  Tests.vcxproj -> C:\Users\kirmo\source\repos\thermWork\Debug\Tests.dll
